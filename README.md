@@ -1,9 +1,6 @@
 <br />
   <img width="1391" alt="Screenshot 2023-12-10 at 01 30 58" src="https://github.com/rshaarma/work-planner/assets/64362564/8355af82-f580-49d5-a70d-b8a137ac75dd">
 
-<br />
-  <img width="1403" alt="Screenshot 2023-12-10 at 01 32 56" src="https://github.com/rshaarma/work-planner/assets/64362564/9dfbc293-79d1-4562-ba5f-98d07e52d202">
-
   <h3 align="center">Welcome to Work Planner Application</h3>
 
   <p align="center">
@@ -15,6 +12,7 @@
     <a href="https://github.com/rshaarma/work-planner/issues">Request Feature</a>
   </p>
 </p>
+ <img width="1403" alt="Screenshot 2023-12-10 at 01 32 56" src="https://github.com/rshaarma/work-planner/assets/64362564/9dfbc293-79d1-4562-ba5f-98d07e52d202">
 
 <!-- TABLE OF CONTENTS -->
 

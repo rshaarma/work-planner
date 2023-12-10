@@ -13,6 +13,7 @@
   </p>
 </p>
  <img width="1403" alt="Screenshot 2023-12-10 at 01 32 56" src="https://github.com/rshaarma/work-planner/assets/64362564/9dfbc293-79d1-4562-ba5f-98d07e52d202">
+ <img width="1393" alt="Screenshot 2023-12-10 at 14 30 14" src="https://github.com/rshaarma/work-planner/assets/64362564/776fef3c-cfe4-430c-87de-dd66f11314c0">
 
 <!-- TABLE OF CONTENTS -->
 

@@ -1,11 +1,13 @@
 <br />
-  <img width="1431" alt="Screenshot 2023-12-05 at 23 39 51" src="https://github.com/rshaarma/word-guess/assets/64362564/b84cac36-49ef-4df5-9fa4-f55eda1ad3d3">
+  <img width="1391" alt="Screenshot 2023-12-10 at 01 30 58" src="https://github.com/rshaarma/work-planner/assets/64362564/8355af82-f580-49d5-a70d-b8a137ac75dd">
 
-  <h3 align="center">Welcome to Quiz Application</h3>
+  <img width="1403" alt="Screenshot 2023-12-10 at 01 32 56" src="https://github.com/rshaarma/work-planner/assets/64362564/9dfbc293-79d1-4562-ba5f-98d07e52d202">
+
+  <h3 align="center">Welcome to Work Planner Application</h3>
 
   <p align="center">
     <strong>Explore the docs »</strong>
-    <a href="https://rshaarma.github.io/word-guess/index.html//">View Demo</a>
+    <a href="https://rshaarma.github.io/word-guess/index.html//">View Deployed URL</a>
     ·
     <a href="https://github.com/rshaarma/work-planner/issues">Report Bug</a>
     ·
@@ -30,8 +32,6 @@
 - [Contact](#contact)
 
 ## About The Project
-
-<img width="1429" alt="Screenshot 2023-12-05 at 23 42 10" src="https://github.com/rshaarma/word-guess/assets/64362564/66fed126-8566-4cc4-8216-abb7db970797">
 
 This repository contains simple calendar application that allows the user to save events for each hour of the day. It runs in the browser and has dynamically updated HTML and CSS powered by jQuery. This application is limited to standard business hours, so the user can enter events between 9:00 am and 5:00 pm for each hour. The events are saved into local storage so that if the user refreshes the app webpage, they don't lose all their saved events, when the user clicks the save button.
 

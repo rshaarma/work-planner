@@ -1,4 +1,4 @@
-init();
+$(init);
 function init() {
   $("#currentDay").text(dayjs().format("dddd, MMMM D"));
   timeRows();

@@ -31,6 +31,20 @@
 - [Contributing](#contributing)
 - [Contact](#contact)
 
+## Acceptance Criteria
+
+- Display the current day at the top of the calendar when a user opens the planner.
+
+- Present timeblocks for standard business hours when the user scrolls down.
+
+- Color-code each timeblock based on past, present, and future when the timeblock is viewed.
+
+- Allow a user to enter an event when they click a timeblock.
+
+- Save the event in local storage when the save button is clicked in that timeblock.
+
+- Persist events between refreshes of a page.
+
 ## About The Project
 
 This repository contains simple calendar application that allows the user to save events for each hour of the day. It runs in the browser and has dynamically updated HTML and CSS powered by jQuery. This application is limited to standard business hours, so the user can enter events between 9:00 am and 5:00 pm for each hour. The events are saved into local storage so that if the user refreshes the app webpage, they don't lose all their saved events, when the user clicks the save button.

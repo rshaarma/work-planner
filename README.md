@@ -5,7 +5,7 @@
 
   <p align="center">
     <strong>Explore the docs »</strong>
-    <a href="https://rshaarma.github.io/word-guess/index.html//">Deployed URL</a>
+    <a href="https://rshaarma.github.io/work-planner/">Deployed URL</a>
     ·
     <a href="https://github.com/rshaarma/work-planner/issues">Report Bug</a>
     ·

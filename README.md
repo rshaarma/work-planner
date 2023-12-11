@@ -79,6 +79,10 @@ CSS3
 JAVASCRIPT
 ```
 
+```shell
+jQuery
+```
+
 #### Clone the repository
 
 ```shell

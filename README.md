@@ -48,6 +48,7 @@
 ## About The Project
 
 This repository contains simple calendar application that allows the user to save events for each hour of the day. It runs in the browser and has dynamically updated HTML and CSS powered by jQuery. This application is limited to standard business hours, so the user can enter events between 9:00 am and 5:00 pm for each hour. The events are saved into local storage so that if the user refreshes the app webpage, they don't lose all their saved events, when the user clicks the save button.
+This application was built using Dayjs().
 
 The live website has been deployed to
 Github Pages. This project was developed by [Rohit](https://github.com/rshaarma) .
